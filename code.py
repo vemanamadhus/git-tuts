@@ -1,0 +1,1 @@
+print("Entry form of sample")
